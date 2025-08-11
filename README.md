@@ -57,7 +57,7 @@ app/
 
 ![Modelo de Base de Datos](modelo_mascota.png)
 
-![](C:\Users\ITNVUSER\AndroidStudioProjects\MyAppLabTwo-main\app\src\main\res\drawable\modelo_mascota.png)
+<img src="C:\Users\ITNVUSER\AndroidStudioProjects\MyAppLabTwo-main\app\src\main\res\drawable\modelo_mascota.png"/>
 
 > Este diagrama muestra la estructura de la tabla utilizada para almacenar los registros de mascotas en SQLite.
 
@@ -65,14 +65,15 @@ app/
 
 ## 📸 Capturas de pantalla
 
-| Pantalla de inicio | Lista de mascotas | Formulario de registro |
-|--------------------|------------------|------------------------|
-| ![Inicio](captures/inicio.png) | ![Lista](captures/lista.png) | ![Registro](captures/registro.png) |
+| Pantalla de inicio | Lista de mascotas |
+|--------------------|------------------|
+| ![Inicio](captures/inicio.png) | ![Lista](captures/lista.png) |
 
-| Edición de mascota | Confirmación de eliminación |
-|--------------------|----------------------------|
-| ![Editar](captures/editar.png) | ![Eliminar](captures/eliminar.png) |
-
+<img src="C:\Users\ITNVUSER\AndroidStudioProjects\MyAppLabTwo-main\app\src\main\res\drawable\pantalla_principal.png"/>
+---
+<img src="C:\Users\ITNVUSER\AndroidStudioProjects\MyAppLabTwo-main\app\src\main\res\drawable\pantalla_ranking.png"/>
+---
+<img src="C:\Users\ITNVUSER\AndroidStudioProjects\MyAppLabTwo-main\app\src\main\res\drawable\pantalla_posiciones.png"/>
 ---
 
 ## 📦 Instalación y ejecución
